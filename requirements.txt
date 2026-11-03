@@ -1,0 +1,6 @@
+streamlit>=1.36,<2.0
+pandas>=2.1,<3.0
+numpy>=1.26,<3.0
+# Optional NLP model support. Install only if you want Hugging Face summarisation:
+# transformers>=4.40,<6.0
+# torch>=2.2
